@@ -1,6 +1,6 @@
 #!/bin/sh     
 #ssh userName@development-server-ip
 #cd /your-project-path 
-#git pull      
+git pull      
 npm install      
 #pm2 restart all
